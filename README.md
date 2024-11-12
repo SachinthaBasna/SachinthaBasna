@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Sachintha;+I'm+Intressed+In:;+Programming;+UI-Design;+3D+Modeling;" />
 </h1>
@@ -8,15 +6,13 @@
 
 <br/>
 
-<div align="center">
+<div align="">
  🔭 I’m currently working on POS system
  🌱 I’m currently learning React JS and Java
  💬 Ask me about JavaScript
-
- 
  </div>
  
-<div align="center"> 
+<div align=""> 
   <a href="sachinthab99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -32,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,java" /><br>
