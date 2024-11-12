@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Sachintha;+I'm+3D+Artist;+I'm+Coder;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Sachintha;+I'm+Intressed+In:;+Programming;+UI-Design;+3D+Modeling;" />
 </h1>
 
-<h3 align="center">A passionate Front-End developer from Sri Lanka </h3>
+<h3 align="center">A passionate developer from Sri Lanka </h3>
 
 <br/>
 
