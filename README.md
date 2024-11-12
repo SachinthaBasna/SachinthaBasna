@@ -12,7 +12,7 @@
  🔭 I’m currently working on POS system
  🌱 I’m currently learning React JS and Java
  💬 Ask me about JavaScript
- 
+
  
  </div>
  
@@ -26,6 +26,8 @@
   <a href="https://dribbble.com/SachinthaBasna" target="_blank">
      <img src="https://img.shields.io/badge/Dribbble-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <br/>    
+    <br/>
 </div>
 
  <hr/>
