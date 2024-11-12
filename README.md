@@ -6,13 +6,13 @@
 
 <br/>
 
-<div align="">
+<div align="center">
  🔭 I’m currently working on POS system
  🌱 I’m currently learning React JS and Java
  💬 Ask me about JavaScript
  </div>
  
-<div align=""> 
+<div align="center"> 
   <a href="sachinthab99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,java" /><br>
