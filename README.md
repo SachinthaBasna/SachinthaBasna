@@ -24,8 +24,6 @@
 <a href="https://www.behance.net/sachinthabasna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sachinthabasna" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sachintha_basnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sachintha_basnayaka" height="30" width="40" /></a>
 </p>
-    <br/>    
-    <br/>
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
