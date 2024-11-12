@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sachnthabasna&label=Profile%20views&color=0e75b6&style=flat" alt="sachnthabasna" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Sachintha;+I'm+Intressed+In:;+Programming;+UI-Design;+3D+Modeling;" />
 </h1>
@@ -7,9 +8,10 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on POS system
- 🌱 I’m currently learning React JS and Java
- 💬 Ask me about JavaScript
+ <p> 🔭 I’m currently working on POS system </p>
+ <p> 🌱 I’m currently learning React JS and Java </p>
+ <p> 👨‍💻 All of my 3D related projects are available at: <a href="https://www.behance.net/sachinthabasna">Behance</a></p>
+ <p> 💬 Ask me about JavaScript </p>
  </div>
  <br/>
 <div align="center"> 
