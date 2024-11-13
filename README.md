@@ -11,7 +11,7 @@
  <p> 🔭 I’m currently working on POS system </p>
  <p> 🌱 I’m currently learning React JS and Java </p>
  <p> 👨‍💻 All of my 3D related projects are available at: <a href="https://www.behance.net/sachinthabasna">Behance</a></p>
- </hr>
+ <hr/>
  </div>
  <br/>
 
