@@ -11,26 +11,7 @@
  <hr/>
  <p> 🔭 I’m currently working on POS system </p>
  <p> 🌱 I’m currently learning React JS and Java </p>
- <p> 👨‍💻 All of my 3D related projects are available at: <a href="https://www.behance.net/sachinthabasna">Behance</a></p>
- 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sachintha-basnayaka" target="_blank" style="display:flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important;  width: 200px;height: 32px; border-radius: 16px;background-color: #0A66C2; font-family: "SF Pro Text", Helvetica, sans-serif;">Follow on LinkedIn</a>
+ <p> 👨‍💻 My 3D related projects are available at: <a href="https://www.behance.net/sachinthabasna">Behance</a></p>
  <hr/>
  </div>
  <br/>
