@@ -14,9 +14,6 @@
  <p> 👨‍💻 My 3D related projects are available at: <a href="https://www.behance.net/sachinthabasna">Behance</a></p>
  <hr/>
  </div>
- <br/>
-
- <br/>
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
