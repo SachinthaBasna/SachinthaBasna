@@ -5,8 +5,6 @@
 
 <h3 align="center">A passionate developer from Sri Lanka </h3>
 
-<br/>
-
 <div align="center">
  <hr/>
  <p> 🔭 I’m currently Developing POS system </p>
